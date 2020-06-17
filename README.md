@@ -15,7 +15,6 @@ The dataset used is taken from Kaggle. It has credit card transactions made over
 <h2> Imbalanced Data </h2>
 In our case, the data is imbalanced and this bias in the dataset can influence the machine learning algorithms leading to ignore the minority class entirely and so it's of utmost importance to first deal with the imbalanced data. We discuss Undersampling, Oversampling and Combined sampling techniques to deal with the imbalanced dataset.
 
-<h2> Models Used </h2>
+## Models Used 
 * Logistic Regression and,
-
 * Random Forest Classifier
