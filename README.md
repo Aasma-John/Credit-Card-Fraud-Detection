@@ -17,4 +17,5 @@ In our case, the data is imbalanced and this bias in the dataset can influence t
 
 <h2> Models Used </h2>
 * Logistic Regression and,
+
 * Random Forest Classifier
